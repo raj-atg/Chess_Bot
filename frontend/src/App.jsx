@@ -90,7 +90,7 @@ export default function App() {
   };
 
   if (loading) {
-    return <div className="loading">Loading Full Stack Chess App...</div>;
+    return <div className="loading">Loading ChessMate...</div>;
   }
 
   if (error) {
@@ -104,7 +104,7 @@ export default function App() {
   return (
     <div className="app-container">
       <header>
-        <h1>Full Stack Chess App</h1>
+        <h1>ChessMate</h1>
         <button className="new-game-btn" onClick={handleNewGame}>
           New Game
         </button>

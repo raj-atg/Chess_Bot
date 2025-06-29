@@ -1,4 +1,4 @@
-# Full Stack Chess App
+# ChessMate
 
 A simple, minimal chess application with a Python Flask backend and a React frontend. Play chess against a basic AI, view move history, and start new games. Designed for clarity and ease of use.
 

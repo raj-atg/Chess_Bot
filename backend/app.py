@@ -122,5 +122,5 @@ def update_game_status():
         game_state['game_status'] = 'ongoing'
 
 if __name__ == '__main__':
-    print("Full Stack Chess App Backend Running...")
+    print("ChessMate Backend Running...")
     app.run(debug=True, host='0.0.0.0', port=5000, threaded=True) 
