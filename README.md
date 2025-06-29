@@ -103,7 +103,6 @@ Chess_Bot/
 - **Stockfish Integration**: Add support for playing against the Stockfish chess engine with multiple difficulty levels.
 - **Multiplayer Support**: Add real-time play with Flask-SocketIO.
 - **Analysis Mode**: Engine evaluation and move suggestions.
-- **PGN Export/Import**: Save and load games.
 - **UI Enhancements**: Animations, themes, and more responsive design.
 
 ---
