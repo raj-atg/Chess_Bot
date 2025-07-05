@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 // Unicode chess symbols
-const PIECE_UNICODE = {
+export const PIECE_UNICODE = {
   'P': '♙', 'N': '♘', 'B': '♗', 'R': '♖', 'Q': '♕', 'K': '♔',
   'p': '♟', 'n': '♞', 'b': '♝', 'r': '♜', 'q': '♛', 'k': '♚',
 };
